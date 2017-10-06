@@ -1,0 +1,120 @@
+body{
+	margin: 0em;
+	width: 100%;
+	font-size: 100%;
+	background: #F4F4F4;
+	color: #373737;
+}
+#nav{
+	position: fixed;
+	top: 0;
+	width: 100%;
+    background-color: #FFFFFF;
+    border-bottom: solid 2px #DCD0C0;
+	font-family: 'Josefin Sans', sans-serif;    
+	font-size: 2em;
+    height: 2em;
+    padding-top: 0.65em;
+    padding-bottom: 0.3em;
+    margin-left: 0;
+    margin: auto;
+    text-align: center;
+
+}
+#nav a:link {
+    color: #373737;
+}
+#nav a:visited {
+    color: #373737;
+}
+/**/
+#nav a:hover {
+    color: #DCD0C0;
+}
+#main_container{
+		width: 100%;
+		max-width: 960px;
+		display: block;
+		margin: auto;
+}
+
+#column1{
+    float: left;
+    width: 45%;
+    margin-top: 6em;
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    height: 1000px;
+    font-family: 'Playfair Display', serif;	
+}
+
+#column2{
+    float: right;
+    width: 45%;
+    margin-top: 6em;
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    height: 1000px;
+    font-family: 'Playfair Display', serif;	
+}
+
+
+#anna1{
+	height:500px; 
+    width:500px;
+    margin: auto;
+}
+#chrisandanna{
+	height:350px; 
+    width:500px;
+    margin: auto;
+}
+.caption{
+	font-size: 80%;
+	margin: auto;
+}
+#saqif{
+    height:300px; 
+    width:550px;
+    margin: auto;
+}
+#saqif2{
+    height:300px; 
+    width:550px;
+    margin: auto;
+}
+table{
+	border: 1px #COB283;
+	border-collapse: collapse;
+	margin: auto;
+	table-layout: fixed;
+	width: 75%;
+}
+th{
+	font-weight: bold;
+	font-style: italic;
+	height: 50px;
+	text-align: center;
+	border-bottom: 2px #COB283;
+}
+td{
+	height: 50px;
+	vertical-align: center;
+}
+img{
+    display block;
+    margin: auto;
+    width: 300px;
+    height: auto;
+}
+
+#imageColumn > img{
+
+    width: 100%;
+    height: 100%;
+
+}
+
+
